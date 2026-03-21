@@ -5,7 +5,7 @@ namespace DineMaster_APICreation.Data
     public class ApplicationDbContext:DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options):base(options)
-        {aa
+        {
 
         }
         public DbSet<UserModel> Users { get; set; }
