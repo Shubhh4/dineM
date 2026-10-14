@@ -11,6 +11,6 @@
         public int TableId { get; set; }
         public decimal TotalAmount { get; set; }
         public bool IsPaid { get; set; }
-        public string CreatedBy { get; set; }/
+        public string CreatedBy { get; set; }
     }
 }
