@@ -1,6 +1,6 @@
 ﻿namespace DineMaster_APICreation.DTO
 {
-    public class ReservationDTO1
+    public class ReservationDTO11
     {
         public string CustomerName { get; set; }
         public string Contact { get; set; }
